@@ -120,27 +120,27 @@
 
 《[多线程详解，一篇文章彻底搞懂多线程中各个难点](https://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247495726&idx=1&sn=1261eb4c1edeabfb69c3e29aa62d031c&chksm=f96b82dace1c0bccca5bbb5f069db49640b08b31f559fb0f63f7285c289ae540d3afa03cb185&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)Linux中常见同步和互斥机制设计原理 》
+《[Linux中常见同步和互斥机制设计原理](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)Linux信号量（1）-SYSTEM V》
+《[Linux信号量（1）-SYSTEM V](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)Linux信号量（2）-POSIX 信号量》
+《[Linux信号量（2）-POSIX 信号量](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)Linux互斥锁（1）-线程互斥锁》
+《[Linux互斥锁（1）-线程互斥锁](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)进程组、会话、控制终端关系，守护进程详解》
+《[进程组、会话、控制终端关系，守护进程详解](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect) [一个多线程的简单例子让你看清线程调度的随机性](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247488785&idx=1&sn=de65652e983cc6a31c2a30d9e452018b&chksm=f96867e5ce1feef367340c1c5a2536e420bcf6f0488e1a93dca525926002e30010e6eb46b8ed&scene=21#wechat_redirect)[粉丝提问》](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247489336&idx=1&sn=fc645b7abc705275cf43eccc08ca0fcd&chksm=f96865ccce1fecdafd14bb4b025ec256ea986d414d20f3e81184cb89c5f7e1a29a402959a409&scene=21#wechat_redirect)
+《 [一个多线程的简单例子让你看清线程调度的随机性粉丝提问](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247488785&idx=1&sn=de65652e983cc6a31c2a30d9e452018b&chksm=f96867e5ce1feef367340c1c5a2536e420bcf6f0488e1a93dca525926002e30010e6eb46b8ed&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)Linux库概念，动态库和静态库的制作，如何移植第三方库》
+《[Linux库概念，动态库和静态库的制作，如何移植第三方库](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect) 两个线程，两个互斥锁，怎么形成一个死循环？ [粉丝提问》](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247489336&idx=1&sn=fc645b7abc705275cf43eccc08ca0fcd&chksm=f96865ccce1fecdafd14bb4b025ec256ea986d414d20f3e81184cb89c5f7e1a29a402959a409&scene=21#wechat_redirect)
+《[两个线程，两个互斥锁，怎么形成一个死循环？ 粉丝提问](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247489336&idx=1&sn=fc645b7abc705275cf43eccc08ca0fcd&chksm=f96865ccce1fecdafd14bb4b025ec256ea986d414d20f3e81184cb89c5f7e1a29a402959a409&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)用了这么多年Linux，你清楚控制台、终端与shell及它们的关系吗？》
+《[用了这么多年Linux，你清楚控制台、终端与shell及它们的关系吗？](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)多线程详解，一篇文章彻底搞懂多线程中各个难点》
+《[多线程详解，一篇文章彻底搞懂多线程中各个难点](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)子进程进程的父进程关系》
+《[子进程进程的父进程关系](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247486030&idx=1&sn=bbc0407c41c003891102bfb73c49a065&chksm=f96878bace1ff1acc53cade12abe5f15eb0c71d183612cb3a54e8085a73e3deae3236ad5a27d&scene=21#wechat_redirect)》
 
 ## 3. 网络编程
 
@@ -221,13 +221,13 @@ B站正在更新这个系列的视频教程，
 
 参考文章
 
-[《【问答23】移植Linux：如何制作rootfs？详细教程](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)》
+《[【问答23】移植Linux：如何制作rootfs？详细教程](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)19. Cortex-A9 uboot启动代码详解[**必看》**](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247488626&idx=1&sn=c9c045382502de4417a48cf63fffc691&chksm=f9686686ce1fef90b096ddbf70129785b8e0b9666a3367e706364543ea81d728b61323747e2f&scene=21#wechat_redirect)
+《[19. Cortex-A9 uboot启动代码详解**必看**](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247488626&idx=1&sn=c9c045382502de4417a48cf63fffc691&chksm=f9686686ce1fef90b096ddbf70129785b8e0b9666a3367e706364543ea81d728b61323747e2f&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)20.从0学ARM-从0移植uboot支持exynos4412-亲测》
+《[20.从0学ARM-从0移植uboot支持exynos4412-亲测](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)》
 
-[《](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)Linux模块文件如何编译到内核和独立编译成模块？》
+《[Linux模块文件如何编译到内核和独立编译成模块？](http://mp.weixin.qq.com/s?__biz=MzUxMjEyNDgyNw==&mid=2247493795&idx=1&sn=67b66204b892c1d8b8bd542ab2bc461a&chksm=f96b9a57ce1c1341ebe8bcfca5c2f50e3fb2b4f43d0d7d621a00393be297a7ac463b7163ee60&scene=21#wechat_redirect)》
 
 ## 3. Linux驱动
 
